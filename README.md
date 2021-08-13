@@ -2,6 +2,8 @@
 
 ## Context Managers
 
+![Deepnote](https://deepnote.com/project/EPAi3-Session14-d22ezQZBROWHhXwJ9OwzdA/%2Fsession14_notebook.ipynb)
+
 ### Question - 1
 
 #### Objective: For this project you have 4 files containing information about persons.
